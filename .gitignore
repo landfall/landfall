@@ -4,3 +4,28 @@
 *.jar
 *.war
 *.ear
+
+# eclispe stuff #
+*.pydevproject
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+.loadpath
+**/bin/**
+
+# External tool builders
+.externalToolBuilders/
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# precompiled binaries #
+*.so
